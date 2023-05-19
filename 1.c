@@ -11,5 +11,7 @@ void main()
         func = add;
         int c = func(a,b);
         printf("%d\n",c);
+
+	printf("added in quick-test branch\n");
 }
 
