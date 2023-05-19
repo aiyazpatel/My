@@ -11,5 +11,6 @@ void main()
         func = add;
         int c = func(a,b);
         printf("%d\n",c);
+	printf("\n");
 }
 
