@@ -13,5 +13,6 @@ void main()
         printf("%d\n",c);
 
 	printf("added in quick-test branch\n");
+	pritnf("added in main branch\n");
 }
 
